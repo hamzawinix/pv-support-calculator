@@ -2,7 +2,8 @@
 
 This program can be used to calculate the length of the beams used to support a PV panel of certain length
 
-limitations:
+
+## limitations:
 
   - can only calculate for 3 beams atm but can be easily modified
   - no visualization
