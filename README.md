@@ -12,7 +12,8 @@ This program can be used to calculate the length of the beams used to support a 
 ## installation
 
 ### using git:
-``` git clone https://github.com/hamzawinix/pv-support-calculator.git
+``` 
+git clone https://github.com/hamzawinix/pv-support-calculator.git
 cd pv-support-calculator
 python3 ./iron.py
 ```
